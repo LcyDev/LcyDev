@@ -36,7 +36,6 @@
 
 ## Tools
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Yarn](https://img.shields.io/badge/-Yarn-%232C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 [![Gradle](https://img.shields.io/badge/-Gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 
 <!---
