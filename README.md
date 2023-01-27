@@ -9,9 +9,9 @@
 
 
 ## 📝 Languages:
-[![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![SQL](https://img.shields.io/badge/-SQL-%2300f?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
