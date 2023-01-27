@@ -3,6 +3,11 @@
   
   I know i should move my projects to GitHub but first i should remake them. (Someday)
 
+## OS
+[![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+
 ## 📝 Languages:
 [![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -13,10 +18,6 @@
 [![Bash](https://img.shields.io/badge/-Bash-%2339457E?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![YAML](https://img.shields.io/badge/-YAML-%23FF0000?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
 [![JSON](https://img.shields.io/badge/-JSON-%23000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
-
-## OS
-[![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ## Databases
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
