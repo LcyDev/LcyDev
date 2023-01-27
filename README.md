@@ -1,11 +1,7 @@
 ### About
   Hii, i'm Lucy ^^, I learn programming by myself in my free time, but also studying computer science.
   
-  I should move my projects to GitHub but i want to remake them before (someday)
-  
-### Development
-  - Minecraft: SpigotAPI, Fabric
-
+  I know i should move my projects to GitHub but first i should remake them. (Someday)
 
 ## 📝 Languages:
 [![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
