@@ -3,6 +3,10 @@
   
   I know i should move my projects to GitHub but first i should remake them. (Someday)
 
+## IDEs
+[![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 ## OS
 [![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -33,7 +37,6 @@
 ## Tools
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Yarn](https://img.shields.io/badge/-Yarn-%232C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Gradle](https://img.shields.io/badge/-Gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 
 <!---
