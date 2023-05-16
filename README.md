@@ -1,4 +1,5 @@
 # About
+I'm lucy ^^, i like coding :>, in my free time i learn programming & explore new techs.
 
 ## 💡 IDEs
 
@@ -74,7 +75,7 @@ Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 
 ![LcyDev's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LcyDev&theme=redical&hide_border=true&height=400)
 
-![LcyDev's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LcyDev&theme=darkhub&no-bg=true&no-frame=true&margin-w=0)
+![LcyDev's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LcyDev&theme=darkhub&no-bg=true&no-frame=true&margin-w=15)
 
 <!---
 ![LcyDev's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LcyDev&theme=dark&hide_border=true&langs_count=15&layout=compact&hide=other,xml,text&custom_title=Language%20Experience)
