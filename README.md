@@ -17,14 +17,23 @@ I'm lucy ^^, i like coding :>, in my free time i learn programming & explore new
 Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 -->
 
+## 💻 External Libraries
+
+[![SpigotMC](https://img.shields.io/badge/-Spigot-%23FCCD46?style=for-the-badge&logo=spigotmc&logoColor=white)](https://spigotmc.org/)
+[![PaperMC](https://img.shields.io/badge/-Paper-%23444444?style=for-the-badge&logo=papermc&logoColor=white)](https://papermc.io/)
+<!---
+[![Forge](https://img.shields.io/badge/-Forge-%23FF784D?style=for-the-badge&logo=curseforge&logoColor=black)](https://minecraftforge.net/)
+[![FabricMC](https://img.shields.io/badge/-Fabric-%23C6BCA5?style=for-the-badge&logo=fabricmc&logoColor=white)](https://fabricmc.net/)
+-->
+
 ## 💻 Programming Languages
 
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Java](https://img.shields.io/badge/-Java-%23FF6600?style=for-the-badge&logo=java&logoColor=white)](https://java.com/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C#](https://img.shields.io/badge/-C%23-%23007396?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c-plus-plus&logoColor=white)](https://isocpp.org/)
 [![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://rust-lang.org/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 [![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://typescriptlang.org/)
