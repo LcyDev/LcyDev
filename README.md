@@ -1,5 +1,5 @@
 # About
-I'm lucy ^^, i like coding :>, in my free time i learn programming & explore new techs.
+i like coding, in spend my free time to learn programming & explore new techs.
 
 ## 💡 IDEs
 
