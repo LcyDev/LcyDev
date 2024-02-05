@@ -35,16 +35,20 @@ Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 
 ### Dynamic Typed
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+<!--- Awaiting
 [![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://gdscript.com)
+-->
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 ### Low-Level
-
+  * Soon . . .
+<!--- Awaiting
 [![C](https://img.shields.io/badge/-C-%23404040?style=for-the-badge&logo=c&logoColor=white)](https://clang.llvm.org/)
 [![Zig](https://img.shields.io/badge/-zig-%23F7A41D?style=for-the-badge&logo=zig&logoColor=white)](https://ziglang.org/)
 [![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://rust-lang.org/)
+-->
 
 ## 📝 Other Languages
 
