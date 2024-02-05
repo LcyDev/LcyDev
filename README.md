@@ -36,7 +36,7 @@ Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 [![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://rust-lang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
-[![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://typescriptlang.org/)
+[![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://gdscript.com)
 
 ## 📝 Other Languages
 
