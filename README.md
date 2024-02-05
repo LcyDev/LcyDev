@@ -20,7 +20,7 @@ Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 ## 💻 External Libraries
 
 [![SpigotMC](https://img.shields.io/badge/-Spigot-%23FCCD46?style=for-the-badge&logo=spigotmc&logoColor=white)](https://spigotmc.org/)
-[![PaperMC](https://img.shields.io/badge/-Paper-%23444444?style=for-the-badge&logo=papermc&logoColor=white)](https://papermc.io/)
+[![PaperMC](https://img.shields.io/badge/-Paper-%23444444?style=for-the-badge&logo=paperlessngx&logoColor=white)](https://papermc.io/)
 <!---
 [![Forge](https://img.shields.io/badge/-Forge-%23FF784D?style=for-the-badge&logo=curseforge&logoColor=black)](https://minecraftforge.net/)
 [![FabricMC](https://img.shields.io/badge/-Fabric-%23C6BCA5?style=for-the-badge&logo=fabricmc&logoColor=white)](https://fabricmc.net/)
