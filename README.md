@@ -17,26 +17,34 @@ i like coding, in spend my free time to learn programming & explore new techs.
 Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 -->
 
-## 💻 External Libraries
+## 📚 External Libraries
 
 [![SpigotMC](https://img.shields.io/badge/-Spigot-%23FCCD46?style=for-the-badge&logo=spigotmc&logoColor=white)](https://spigotmc.org/)
 [![PaperMC](https://img.shields.io/badge/-Paper-%23444444?style=for-the-badge&logo=paperlessngx&logoColor=white)](https://papermc.io/)
-<!---
+<!--- Awaiting
 [![Forge](https://img.shields.io/badge/-Forge-%23FF784D?style=for-the-badge&logo=curseforge&logoColor=black)](https://minecraftforge.net/)
 [![FabricMC](https://img.shields.io/badge/-Fabric-%23C6BCA5?style=for-the-badge&logo=fabricmc&logoColor=white)](https://fabricmc.net/)
 -->
 
 ## 💻 Programming Languages
 
-[![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+### Static Typed
+[![C#](https://img.shields.io/badge/-C%23-%23007396?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/-Java-%23FF6600?style=for-the-badge&logo=java&logoColor=white)](https://java.com/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![C#](https://img.shields.io/badge/-C%23-%23007396?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://rust-lang.org/)
+
+### Dynamic Typed
+[![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://gdscript.com)
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
-[![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://gdscript.com)
+### Low-Level
+
+[![C](https://img.shields.io/badge/-C-%23404040?style=for-the-badge&logo=c&logoColor=white)](https://clang.llvm.org/)
+[![Zig](https://img.shields.io/badge/-zig-%23F7A41D?style=for-the-badge&logo=zig&logoColor=white)](https://ziglang.org/)
+[![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://rust-lang.org/)
 
 ## 📝 Other Languages
 
