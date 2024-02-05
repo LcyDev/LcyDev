@@ -77,6 +77,7 @@ Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 
 ## 🛠️ Tools
 
+[![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Gradle](https://img.shields.io/badge/-Gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Maven](https://img.shields.io/badge/-Maven-%23C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://gradle.org/)
