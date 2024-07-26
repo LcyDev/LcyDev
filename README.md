@@ -1,29 +1,13 @@
 # About
 i like coding, in spend my free time to learn programming & explore new techs.
 
-## 💡 IDEs
-
-[![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://jetbrains.com/idea/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-
-## 💿 OS
-
-[![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/en-us/windows)
-[![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
-[![Arch](https://img.shields.io/badge/-Arch-%23181717?style=for-the-badge&logo=arch-linux&logoColor=1793D1)](https://archlinux.org/)
-<!---
-[![Kali](https://img.shields.io/badge/-Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=black)](https://kali.org/)
-Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
--->
-
 ## 📚 External Libraries
 
 [![SpigotMC](https://img.shields.io/badge/-Spigot-%23FCCD46?style=for-the-badge&logo=spigotmc&logoColor=white)](https://spigotmc.org/)
 [![PaperMC](https://img.shields.io/badge/-Paper-%23444444?style=for-the-badge&logo=paperlessngx&logoColor=white)](https://papermc.io/)
 <!--- Awaiting
-[![Forge](https://img.shields.io/badge/-Forge-%23FF784D?style=for-the-badge&logo=curseforge&logoColor=black)](https://minecraftforge.net/)
 [![FabricMC](https://img.shields.io/badge/-Fabric-%23C6BCA5?style=for-the-badge&logo=fabricmc&logoColor=white)](https://fabricmc.net/)
+[![ForgeMC](https://img.shields.io/badge/-Forge-%23FF784D?style=for-the-badge&logo=curseforge&logoColor=black)](https://minecraftforge.net/)
 -->
 
 ## 💻 Programming Languages
@@ -82,6 +66,22 @@ Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 [![Gradle](https://img.shields.io/badge/-Gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Maven](https://img.shields.io/badge/-Maven-%23C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://gradle.org/)
 [![Neovim](https://img.shields.io/badge/-Neo%20VIM-%23019733?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+
+## 💡 IDEs
+
+[![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://jetbrains.com/idea/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+
+## 💿 OS
+
+[![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/en-us/windows)
+[![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
+[![Arch](https://img.shields.io/badge/-Arch-%23181717?style=for-the-badge&logo=arch-linux&logoColor=1793D1)](https://archlinux.org/)
+<!---
+[![Kali](https://img.shields.io/badge/-Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=black)](https://kali.org/)
+Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
+-->
 
 ### 📊 Github Stats
 
