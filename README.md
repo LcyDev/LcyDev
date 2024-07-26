@@ -22,9 +22,9 @@ i like coding, in spend my free time to learn programming & explore new techs.
 <!--- Awaiting
 [![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://gdscript.com)
 -->
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
+
 ### Low-Level
   * Soon . . .
 <!--- Awaiting
@@ -37,11 +37,11 @@ i like coding, in spend my free time to learn programming & explore new techs.
 ## 📝 Other Languages
 
 [![PowerShell](https://img.shields.io/badge/-PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://powershell.org/) <!-- SCRIPTS -->
-[![Bash](https://img.shields.io/badge/-Bash-%2339457E?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://gnu.org/software/bash/)
-[![Markdown](https://img.shields.io/badge/-Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/) <!-- MARK UP -->
-[![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS/Overview.en.html) <!-- STYLING -->
-[![YAML](https://img.shields.io/badge/-YAML-%23FF0000?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/) <!-- DATA SERIALIZATION -->
+[![Bash](https://img.shields.io/badge/-Bash-%2339457E?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://gnu.org/software/bash/) <!-- MARK UP -->
+[![Markdown](https://img.shields.io/badge/-Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+[![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) <!-- STYLING -->
+[![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS/Overview.en.html) <!-- DATA SERIALIZATION -->
+[![YAML](https://img.shields.io/badge/-YAML-%23FF0000?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
 [![JSON](https://img.shields.io/badge/-JSON-%23000000?style=for-the-badge&logo=json&logoColor=white)](https://json.org/json-en.html)
 
 ## 🗄️ Databases
@@ -52,6 +52,14 @@ i like coding, in spend my free time to learn programming & explore new techs.
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
 
+## 🛠️ Tools
+
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Gradle](https://img.shields.io/badge/-Gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
+[![Maven](https://img.shields.io/badge/-Maven-%23C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://gradle.org/)
+[![Node.js](https://img.shields.io/badge/-NodeJS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
+[![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
 ## 🔄 CI/CD
 
 [![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
@@ -59,16 +67,9 @@ i like coding, in spend my free time to learn programming & explore new techs.
 [![GitLab](https://img.shields.io/badge/-GitLab-%23181717?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
 
-## 🛠️ Tools
-
-[![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Gradle](https://img.shields.io/badge/-Gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
-[![Maven](https://img.shields.io/badge/-Maven-%23C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://gradle.org/)
-[![Neovim](https://img.shields.io/badge/-Neo%20VIM-%23019733?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
-
 ## 💡 IDEs
 
+[![Neovim](https://img.shields.io/badge/-Neo%20VIM-%23019733?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
 [![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://jetbrains.com/idea/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
