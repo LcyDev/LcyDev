@@ -18,7 +18,7 @@ i like coding, in spend my free time to learn programming & explore new techs.
 [![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
 ### Dynamic Typed
-[![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=ffd343)](https://python.org/)
 <!--- Awaiting
 [![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://gdscript.com)
 -->
