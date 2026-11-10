@@ -1,5 +1,5 @@
 # About
-i like coding, in spend my free time to learn programming & explore new techs.
+i like coding, i spend my free time to learn programming & explore new techs.
 
 ## 📚 External Libraries
 
