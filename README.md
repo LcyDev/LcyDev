@@ -1,6 +1,13 @@
 # About
 i like coding, i spend my free time to learn programming & explore new techs.
 
+
+<a href="https://github.com/LcyDev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40LcyDev-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40LcyDev-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a> <a href="https://x.com/lucyy_pwp"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/x/follow/lucyy_pwp.svg?variant=branded&amp;size=sm&amp;mode=dark"><img alt="X Follow" src="https://www.shieldcn.dev/x/follow/lucyy_pwp.svg?variant=branded&amp;size=sm&amp;mode=light"></picture></a>
+
+<a href="https://github.com/LcyDev?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/LcyDev.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/LcyDev.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/LcyDev?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/LcyDev.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/LcyDev.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/LcyDev?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-29-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-29-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-Argentina-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-Argentina-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture>
+
+</div>
+
 ## 📚 External Libraries
 
 [![SpigotMC](https://img.shields.io/badge/-Spigot-%23FCCD46?style=for-the-badge&logo=spigotmc&logoColor=white)](https://spigotmc.org/)
@@ -12,13 +19,13 @@ i like coding, i spend my free time to learn programming & explore new techs.
 
 ### ⚡ Static Typed
 [![C#](https://img.shields.io/badge/-C%23-%23007396?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/-Java-%23FF6600?style=for-the-badge&logo=java&logoColor=white)](https://java.com/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&amp;variant=branded&amp;size=sm&amp;mode=dark)](https://java.com/)
+[![Kotlin](https://www.shieldcn.dev/badge/-Kotlin-7F52FF.svg?logo=kotlin&amp;variant=branded&amp;size=sm&amp;mode=dark)](https://kotlinlang.org/)
 
 ### 📊 Dynamic Typed
-[![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=ffd343)](https://python.org/)
+[![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&logoColor=ffd343&amp;variant=branded&amp;size=sm&amp;mode=dark)](https://python.org/)
 [![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://gdscript.com)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com/)
+[![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=dark)](https://javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 
 ### 🚀 Low-Level
@@ -43,7 +50,7 @@ i like coding, i spend my free time to learn programming & explore new techs.
 
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-%2300f?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
+[![MongoDB](https://www.shieldcn.dev/badge/-Mongoose-47A248.svg?logo=mongodb&amp;variant=branded&amp;size=sm&amp;mode=dark)](https://mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
 
@@ -105,5 +112,6 @@ Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 
 [![{Name}](https://github-readme-stats.vercel.app/api/pin/?username=LcyDev&repo={Name}&theme=tokyo-nightl&hide_border=true)](https://github.com/LcyDev/{Name})
 -->
+
 
 ![LcyDev's GitHub Profile Views](https://komarev.com/ghpvc/?username=LcyDev&color=6133FF&style=flat-square)
