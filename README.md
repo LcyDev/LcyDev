@@ -5,10 +5,8 @@ i like coding, in spend my free time to learn programming & explore new techs.
 
 [![SpigotMC](https://img.shields.io/badge/-Spigot-%23FCCD46?style=for-the-badge&logo=spigotmc&logoColor=white)](https://spigotmc.org/)
 [![PaperMC](https://img.shields.io/badge/-Paper-%23444444?style=for-the-badge&logo=paperlessngx&logoColor=white)](https://papermc.io/)
-<!--- Awaiting
 [![FabricMC](https://img.shields.io/badge/-Fabric-%23C6BCA5?style=for-the-badge&logo=fabricmc&logoColor=white)](https://fabricmc.net/)
 [![ForgeMC](https://img.shields.io/badge/-Forge-%23FF784D?style=for-the-badge&logo=curseforge&logoColor=black)](https://minecraftforge.net/)
--->
 
 ## 💻 Programming Languages
 
