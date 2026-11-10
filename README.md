@@ -38,7 +38,7 @@ i like coding, in spend my free time to learn programming & explore new techs.
 [![Bash](https://img.shields.io/badge/-Bash-%2339457E?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://gnu.org/software/bash/) <!-- MARK UP -->
 [![Markdown](https://img.shields.io/badge/-Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 [![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) <!-- STYLING -->
-[![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS/Overview.en.html) <!-- DATA SERIALIZATION -->
+[![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css&logoColor=white)](https://w3.org/Style/CSS/Overview.en.html) <!-- DATA SERIALIZATION -->
 [![YAML](https://img.shields.io/badge/-YAML-%23FF0000?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
 [![JSON](https://img.shields.io/badge/-JSON-%23000000?style=for-the-badge&logo=json&logoColor=white)](https://json.org/json-en.html)
 
@@ -88,18 +88,21 @@ Garuda, EndeavourOS, ArcoLinux, ArchCraft, XeroLinux
 
 </div>
 
-![LcyDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LcyDev&layout=compact&theme=radical&hide_border=true)
+![LcyDev's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=LcyDev&layout=compact&theme=radical&hide_border=true)
 
-![LcyDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LcyDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+![LcyDev's GitHub Stats](https://github-stats-extended.vercel.app/api?username=LcyDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
 
 ![LcyDev's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LcyDev&theme=radical&hide_border=true)
 
-![LcyDev's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LcyDev&theme=redical&hide_border=true&height=400)
+![LcyDev's Wakatime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=b0d266ae-eb1c-4a26-a6d2-432d49b99da0&theme=radical&hide_border=true&langs_count=15&layout=compact&hide=other,xml,text)
 
-![LcyDev's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LcyDev&theme=darkhub&no-bg=true&no-frame=true&margin-w=15)
+![LcyDev's GitHub Trophies](https://https://trophy.benkou.dev/?username=LcyDev&theme=darkhub&no-bg=true&no-frame=true&margin-w=15)
+
 
 <!---
-![LcyDev's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LcyDev&theme=dark&hide_border=true&langs_count=15&layout=compact&hide=other,xml,text&custom_title=Language%20Experience)
+
+![LcyDev's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LcyDev&theme=redical&hide_border=true&height=400)
+
 
 ## Github Repositories
 
