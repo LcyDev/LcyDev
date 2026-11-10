@@ -10,18 +10,18 @@ i like coding, in spend my free time to learn programming & explore new techs.
 
 ## 💻 Programming Languages
 
-### Static Typed
+### ⚡ Static Typed
 [![C#](https://img.shields.io/badge/-C%23-%23007396?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/-Java-%23FF6600?style=for-the-badge&logo=java&logoColor=white)](https://java.com/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
-### Dynamic Typed
+### 📊 Dynamic Typed
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=ffd343)](https://python.org/)
 [![GDScript](https://img.shields.io/badge/-GDScript-%23478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://gdscript.com)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 
-### Low-Level
+### 🚀 Low-Level
 [![C](https://img.shields.io/badge/-C-%23404040?style=for-the-badge&logo=c&logoColor=white)](https://clang.llvm.org/)
 [![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://rust-lang.org/)
